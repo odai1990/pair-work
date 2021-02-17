@@ -90,8 +90,12 @@ function check8thQuestion() {
   }
 }
 
+function maysaaModify(){
+  alert('this is maysaa and i have checked the code everything is ok');
+}
 
 
+maysaaModify();
 
 wlecomingUser();
 
